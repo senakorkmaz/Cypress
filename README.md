@@ -5,5 +5,6 @@ This is my all code wich written while learning cypress
 Introduction to Cypress: https://testautomationu.applitools.com/cypress-tutorial/
 
 # Technology
-Node.js
-Cypress
+* Node.js
+* JavaScript
+* Cypress
