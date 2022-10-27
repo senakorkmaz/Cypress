@@ -1,5 +1,5 @@
 # Cypress
-This is my all code wich written while learning cypress
+This is my all code which written while learning cypress
 
 # Course Followed
 Introduction to Cypress: https://testautomationu.applitools.com/cypress-tutorial/
